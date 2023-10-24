@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ergunacun
 - 👀 I’m interested in developing with Flutter and Nodejs
-- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me ergunacun@gmail.com
 
